@@ -123,6 +123,7 @@ nav{
     }
     
     .lay-column2-wide.RtoL:after {
+
         background: url(../img/wave-r.svg) no-repeat center center;
         background-size: contain;
         right:0;
@@ -360,15 +361,7 @@ nav{
     }
   
    
-    .bg-cloudL h1{
-        font-family: "Noto Serif TC", serif;
-        font-size: 2rem;
-    font-weight: 500;
-    line-height: 150%;
-    margin-bottom: 2em;
-    text-align: center; 
-    }
-    
+  
  
     .bg-cloudL:before {
         background-image: url(../img/wave-l.svg);
