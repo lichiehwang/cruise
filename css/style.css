@@ -386,7 +386,7 @@ nav{
     }
     a.btn-round, .btn-round {
         color: #FFF;
-        background: #000639;
+        background: #000637;
         text-align: center;
         line-height: 120%;
         padding: 0.6em 3em;
@@ -402,7 +402,7 @@ nav{
     }
     .btn-round:hover{
         background: #fff; 
-        color: #000639;
+        color: #000637;
     }
     .btn-round:before {
         content: '';
